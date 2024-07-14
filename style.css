@@ -234,7 +234,7 @@ footer {
 
     .text-wrapper {
         /*  Максимальная ширина для блока с текстом */
-        max-width: 100%;
+        max-width: 560px;
     }
 
     .about-section {
